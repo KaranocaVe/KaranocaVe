@@ -1,7 +1,7 @@
 # 👋 Hi, I'm KaranocaVe
 
 > 🧠 **Primary language**: `Prompt`  
-> 🧾 **Compiler**: GPT-4o
+> 🧾 **Compiler**: GPT-4o  
 > 💻 **IDE**: Chat box  
 > 🧙‍♂️ **Job**: Prompt Sorcerer
 
