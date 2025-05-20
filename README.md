@@ -36,14 +36,6 @@ I code **with intention, context, and a bit of charm**.
 
 > _“Why write code when I can write prompts that write code?”_
 
----
-
-## 📦 My Projects
-
-🧠 **LLM OS** – My personal operating system runs entirely in my mind.  
-🎨 **PromptCanvas** – Generative art without a single line of code.  
-📊 **Promptlytics** – Data dashboards generated on demand, by demand.  
-🤯 **Promptception** – A prompt that teaches you to write better prompts.  
 
 ---
 
