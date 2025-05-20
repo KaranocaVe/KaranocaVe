@@ -44,4 +44,15 @@ I code **with intention, context, and a bit of charm**.
 ```prompt
 You are an expert in data visualization.  
 Take this raw CSV and turn it into a compelling story using charts, summaries, and key insights.  
-Make it accessible for non-technical users.  
+Make it accessible for non-technical users.
+
+
+---
+
+🧵 *Everything you see here was written in one language: Prompt.*
+
+🫡 *No Python. No JS. No regrets.*
+
+---
+
+😏 *You didn't actually believe all of that, did you?*
