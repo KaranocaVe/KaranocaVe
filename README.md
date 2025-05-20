@@ -2,7 +2,7 @@
 
 > 🧠 **Primary language**: `Prompt`  
 > 🧾 **Compiler**: GPT-4o  
-> 💻 **IDE**: Chat box  
+> 💻 **IDE**: Cursor
 > 🧙‍♂️ **Job**: Prompt Sorcerer
 
 
