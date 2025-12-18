@@ -1,8 +1,8 @@
 # 👋 Hi, I'm KaranocaVe
 
 > 🧠 **Primary language**: `Prompt`  
-> 🧾 **Compiler**: GPT-4o  
-> 💻 **IDE**: Cursor  
+> 🧾 **Compiler**: GPT-5.2
+> 💻 **Tool**: CodeX  
 > 🧙‍♂️ **Job**: Prompt Sorcerer
 
 
