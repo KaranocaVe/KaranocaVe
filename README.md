@@ -1,7 +1,7 @@
 # 👋 Hi, I'm KaranocaVe
 
 > 🧠 **Primary language**: `Prompt`  
-> 🧾 **Compiler**: GPT-5.2  
+> 🧾 **Compiler**: GPT-5.4  
 > 💻 **Tool**: CodeX  
 > 🧙‍♂️ **Job**: Prompt Sorcerer
 
