@@ -1,0 +1,30 @@
+[
+  {
+    "type": "season",
+    "fileName": "profile-south-season-animate.svg",
+    "backgroundColor": "transparent",
+    "foregroundColor": "#00000f",
+    "strongColor": "#111133",
+    "weakColor": "gray",
+    "radarColor": "#47a042",
+    "growingAnimation": true,
+    "contribColors1": ["#efefef", "#ffed4a", "#ffc402", "#fe9400", "#fa6100"],
+    "contribColors2": ["#efefef", "#999999", "#cccccc", "#dddddd", "#eeeeee"],
+    "contribColors3": ["#efefef", "#ffe7ff", "#edaeda", "#e492ca", "#ba7aad"],
+    "contribColors4": ["#efefef", "#d8e887", "#8cc569", "#47a042", "#1d6a23"]
+  },
+  {
+    "type": "rainbow",
+    "fileName": "profile-night-rainbow.svg",
+    "backgroundColor": "transparent",
+    "foregroundColor": "#eeeeff",
+    "strongColor": "rgb(255,200,55)",
+    "weakColor": "#aaaaaa",
+    "radarColor": "rgb(255,200,55)",
+    "growingAnimation": true,
+    "saturation": "50%",
+    "contribLightness": ["20%", "30%", "35%", "40%", "50%"],
+    "duration": "10s",
+    "hueRatio": -7
+  }
+]
