@@ -1,6 +1,7 @@
 ### Hi👋 Here is KaranocaVe. 
 
 - 🎓 BEng Student @ UESTC.
+- 🎓 Incoming MEng Student @ Tsinghua University.
 - 🌱 I’m currently learning HPC.
 
 Prompt as interface. Code as consequence.
