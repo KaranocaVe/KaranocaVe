@@ -1,7 +1,7 @@
 ### Hi👋 Here is KaranocaVe. 
 
-- 🎓 BEng Student @ UESTC.
 - 🎓 MEng Student @ Tsinghua University.
+- 🎓 BEng Student @ UESTC.
 - 🌱 I’m currently learning HPC.
 
 <picture>
